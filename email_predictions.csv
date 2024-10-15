@@ -1,0 +1,21 @@
+Email,Label,Predicted Label,Actual Label
+Congratulations! You've won a lottery!,1,Spam,Spam
+Important update regarding your account,0,Non-Spam,Non-Spam
+"Limited time offer, act now!",1,Spam,Spam
+Meeting scheduled for tomorrow at 3 PM,0,Non-Spam,Non-Spam
+Get rich quick with this simple trick!,1,Spam,Spam
+Your invoice for the month is attached,0,Non-Spam,Non-Spam
+"Huge discounts on all products, shop today!",1,Spam,Spam
+Reminder: Your appointment is tomorrow,0,Non-Spam,Non-Spam
+"Win a brand new car, click here!",1,Spam,Spam
+Monthly newsletter from our team,0,Non-Spam,Non-Spam
+Claim your free gift now!,1,Spam,Spam
+Project updates and next steps,0,Non-Spam,Non-Spam
+Earn money fast with this method!,1,Spam,Spam
+Team meeting agenda for next week,0,Non-Spam,Non-Spam
+Congratulations! You have been selected,1,Spam,Spam
+Check out our latest blog post,0,Non-Spam,Non-Spam
+Exclusive deals just for you,1,Spam,Spam
+Don't miss this opportunity to invest!,1,Non-Spam,Spam
+Invoice for the last transaction,0,Non-Spam,Non-Spam
+Join us for a special event this weekend,0,Non-Spam,Non-Spam

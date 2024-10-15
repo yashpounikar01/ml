@@ -1,0 +1,9 @@
+Position,Experience,Skill Level,Fitness,Selected
+Forward,Junior,Basic,Fit,No
+Midfielder,Senior,Advanced,Fit,Yes
+Defender,Mid,Intermediate,Fit,Yes
+Forward,Senior,Advanced,Fit,Yes
+Goalkeeper,Junior,Basic,Unfit,No
+Midfielder,Mid,Intermediate,Unfit,No
+Defender,Mid,Intermediate,Fit,Yes
+Forward,Junior,Basic,Fit,No
